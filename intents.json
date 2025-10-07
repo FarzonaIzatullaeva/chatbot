@@ -1,0 +1,153 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Good morning",
+                "Good afternoon",
+                "Is anyone there?"
+            ],
+            "responses": [
+                "Hello! Welcome to MMC Digital Lab.",
+                "Hi there! How can I help you today?",
+                "Hey! Looking to learn about MMC Digital Lab?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Catch you later"
+            ],
+            "responses": [
+                "Goodbye! Feel free to reach out anytime.",
+                "See you later! Have a great day.",
+                "Bye! Thanks for visiting MMC Digital Lab."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thanks a lot"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Anytime!"
+            ]
+        },
+        {
+            "tag": "what_is_mmc_digital_lab",
+            "patterns": [
+                "What is MMC Digital Lab?",
+                "Tell me about MMC Digital Lab",
+                "Who are you guys?",
+                "What do you do?"
+            ],
+            "responses": [
+                "The MMC Digital Lab is the Research and Creative Development team for the Media, Marketing, and Communications Scholars program.",
+                "We help push long-term initiatives of the MMC Scholars and offer short-term graphic and video services for The Honors and Scholars Center."
+            ]
+        },
+        {
+            "tag": "who_can_join",
+            "patterns": [
+                "Do I need to be in the MMC Scholars program?",
+                "Can anyone join?",
+                "Who can work here?"
+            ],
+            "responses": [
+                "You don’t need to be in the MMC Scholars program. We welcome any student with a strong willingness to learn!"
+            ]
+        },
+        {
+            "tag": "work_hours",
+            "patterns": [
+                "How many hours a week?",
+                "What is the schedule?",
+                "How flexible is the work?",
+                "Hours per week?"
+            ],
+            "responses": [
+                "Most students work 5-10 hours per week. The schedule is flexible to fit your class schedule.",
+                "If you average at least 6 hours per week, you'll be promoted and receive a $1 raise each year."
+            ]
+        },
+        {
+            "tag": "teams",
+            "patterns": [
+                "What teams are there?",
+                "Tell me about the teams",
+                "Creative or research teams?"
+            ],
+            "responses": [
+                "We have the Creative Development Team and the Research Development Team.",
+                "Our teams include Video, Motion Graphics, Graphics, Data, and Web Development."
+            ]
+        },
+        {
+            "tag": "skills_learned",
+            "patterns": [
+                "What skills will I learn?",
+                "Do I need experience?",
+                "What software or languages will I use?"
+            ],
+            "responses": [
+                "Students learn software like Adobe Creative Suite, Unreal Engine, Swift, Tableau, Excel, Access, and web programming languages like JavaScript.",
+                "No prior experience is necessary—just bring a good attitude and interest in learning!"
+            ]
+        },
+        {
+            "tag": "work_process",
+            "patterns": [
+                "How does it work?",
+                "What will I do?",
+                "What tasks will I have?"
+            ],
+            "responses": [
+                "Students start by learning software and programming languages, then complete small practice tasks. Once ready, they work on frontline projects under supervision."
+            ]
+        },
+        {
+            "tag": "experience_expected",
+            "patterns": [
+                "Do I need experience?",
+                "What experience is required?",
+                "Is prior knowledge necessary?"
+            ],
+            "responses": [
+                "No prior experience is needed! Just bring a positive attitude and willingness to learn."
+            ]
+        },
+        {
+            "tag": "multi_team",
+            "patterns": [
+                "Can I work in more than one area?",
+                "Can I switch teams?",
+                "Opportunities in multiple teams?"
+            ],
+            "responses": [
+                "Yes, but students should focus on one area until they have the opportunity to branch out."
+            ]
+        },
+        {
+            "tag": "non_negotiables",
+            "patterns": [
+                "What are the rules?",
+                "Requirements to work here?",
+                "Any conditions?"
+            ],
+            "responses": [
+                "You must have a Federal Work Study award, work at least 6 hours per week, be hardworking, constantly learn and improve skills, and read all emails and notify in advance if missing a shift."
+            ]
+        }
+    ]
+}
